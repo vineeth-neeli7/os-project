@@ -1,7 +1,7 @@
 README.md: |
   # OS Project: Priority Scheduling Algorithm (Non-Preemptive)
 
-  This project implements a **Non-Preemptive Priority Scheduling Algorithm** in C, simulating how an operating system schedules processes based on arrival time, burst time, and calculated priority.
+  This project implements a **Non-Preemptive Priority Scheduling Algorithm** in Cpp, simulating how an operating system schedules processes based on arrival time, burst time, and calculated priority.
 
   ---
 
@@ -35,8 +35,8 @@ README.md: |
 
 ## Technologies Used
 
-- **Language**: C
-- **Compiler**: GCC / Turbo C / Online GDB
+- **Language**: C++
+- **Compiler**: g++ / Code::Blocks / OnlineGDB
 
 ---
 
@@ -45,7 +45,7 @@ README.md: |
 - Priority Scheduling
 - Process Management in OS
 - CPU Scheduling Algorithms
-- Structs and Sorting in C
+- Structs and Sorting in Cpp
 
 ---
 
